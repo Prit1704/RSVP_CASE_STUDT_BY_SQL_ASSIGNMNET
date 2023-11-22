@@ -1,5 +1,8 @@
 # RSVP_CASE_STUDT_BY_SQL_ASSIGNMNET
 
+ALL OPERATIONS DONE IN MYSQL
+GIVEN ANSWERS OF QUESTIONS IN PDF FILE
+
 Attribute_Name	Data_type	Description
 employeeNumber	varchar	Unique identification number assigned to each employee.
 lastName	varchar	Last name of the employee
